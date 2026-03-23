@@ -1,10 +1,6 @@
 ```markdown
 # Windows Recon – Local Enumeration Tool
 
-<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python version"/> 
-<img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> 
-<img src="https://img.shields.io/badge/Status-Educational%20%2F%20Learning-orange?style=for-the-badge" alt="Educational"/>
-
 **Windows Recon** is a lightweight, modular, local post-exploitation enumeration script written in Python.  
 It helps red teamers, penetration testers, and security students quickly understand a Windows environment after gaining initial access.
 
